@@ -6,7 +6,7 @@ This application implements and compares the performance of the meta-heuristic t
 The problem:
 The *parallel machine scheduling problem* is the individuation of the best schedule on identical machines of tasks named *jobs*, aimed at minimizing:
 
-![Objective function](https://user-images.githubusercontent.com/27780725/145707304-39278219-0d2d-4d99-80a4-29a2674927b2.png)
+> ![Objective function](https://user-images.githubusercontent.com/27780725/145707304-39278219-0d2d-4d99-80a4-29a2674927b2.png)
 
 It is assumed that:
 - All machines are available at time 0.
